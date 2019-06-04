@@ -1,4 +1,4 @@
-package guava.option;
+package guava;
 
 import java.util.Optional;
 
